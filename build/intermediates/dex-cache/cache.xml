@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\build\intermediates\pre-dexed\debug\core-e4840df6a5c36bb48e397da93485e2feb591d71d.jar" />
+    </item>
+    <item
+        jar="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\build\intermediates\bundles\debug\libs\core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f3c7e89b5124329cddba83bcf7c26c1c636c16b8">
+        <dex dex="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\build\intermediates\pre-dexed\androidTest\debug\core-afd22d264c76221a453ca9c8db8f8a5d4b32880b.jar" />
+    </item>
+    <item
+        jar="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\build\intermediates\bundles\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f9194f9a89318ce48b4f250cf4e032eabbd3bd21">
+        <dex dex="G:\projects\Android\QRcodeView\QRCodeReaderView\QRCodeReaderView-lib\qrcodereaderview\build\intermediates\pre-dexed\androidTest\debug\classes-59a4ce870543704209ecedff928b6434bdc0c4b6.jar" />
+    </item>
+
+</items>
